@@ -1,6 +1,6 @@
 [
   {
-    "caption": "Rails Go to Spec",
-    "command": "rails_go_to_spec"
+    "caption": "Phoenix Go to Spec",
+    "command": "phoenix_go_to_spec"
   }
 ]
