@@ -9,11 +9,6 @@ Only supports _test.exs files at the moment.
 Installation
 ------------
 
-Using Sublime Package Control
-http://wbond.net/sublime_packages/package_control
-
-Install `phoenix_go_to_spec`
-
 Usage
 -----
 - Run from menu > Goto > Phoenix Go to Spec
@@ -23,7 +18,7 @@ Usage
 Dev
 ----
 
-git clone git@github.com:theoretick/phoenix_go_to_spec.git PhoenixGoToSpec
+    git clone git@github.com:theoretick/phoenix_go_to_spec.git PhoenixGoToSpec
 
 Testing
 -------
@@ -33,6 +28,6 @@ Testing
 Acknowledgements
 -----------
 
-Huge props to [Sporto](github.com/sporto) for his original work on
+Huge props to [Sporto](https://github.com/sporto) for his original work on
 [Rails Go to Spec](http://github.com/sporto/rails_go_to_spec), which I
 shamelessly forked and changed minor configuration
